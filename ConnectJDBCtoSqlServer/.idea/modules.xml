@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../ApDungMVCXuLySuKien/ApDungMVCXuLySuKien.iml" filepath="$PROJECT_DIR$/../ApDungMVCXuLySuKien/ApDungMVCXuLySuKien.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Collection/Collection.iml" filepath="$PROJECT_DIR$/../Collection/Collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConnectJDBCtoSqlServer.iml" filepath="$PROJECT_DIR$/ConnectJDBCtoSqlServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Data_Structure and Algorithms/Data_Structure and Algorithms.iml" filepath="$PROJECT_DIR$/../Data_Structure and Algorithms/Data_Structure and Algorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Interface java 8/Interface java 8.iml" filepath="$PROJECT_DIR$/../Interface java 8/Interface java 8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JW_Layout/JW_Layout.iml" filepath="$PROJECT_DIR$/../JW_Layout/JW_Layout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Lambda java 8/Lambda java 8.iml" filepath="$PROJECT_DIR$/../Lambda java 8/Lambda java 8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../LeetCode/LeetCode.iml" filepath="$PROJECT_DIR$/../LeetCode/LeetCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Regular java/Regular java.iml" filepath="$PROJECT_DIR$/../Regular java/Regular java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../String/String.iml" filepath="$PROJECT_DIR$/../String/String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Thread/Thread.iml" filepath="$PROJECT_DIR$/../Thread/Thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../UseJPanelCauHinhLookandFeel/UseJPanelCauHinhLookandFeel.iml" filepath="$PROJECT_DIR$/../UseJPanelCauHinhLookandFeel/UseJPanelCauHinhLookandFeel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Window_JFrame/Window_JFrame.iml" filepath="$PROJECT_DIR$/../Window_JFrame/Window_JFrame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../java_Optional/java_Optional.iml" filepath="$PROJECT_DIR$/../java_Optional/java_Optional.iml" />
+    </modules>
+  </component>
+</project>
